@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "788f8d412db8cf33321241929551c112"
+build_time: [543117665, 398765000]
+inputs:
+  "/Users/dave/Desktop/Ex_Files_XCode7_EssT/Exercise Files/Chapter 03/creating/start/GitExample/GitExample/ViewController.swift": [543117662, 0]
+  "/Users/dave/Desktop/Ex_Files_XCode7_EssT/Exercise Files/Chapter 03/creating/start/GitExample/GitExample/AppDelegate.swift": [543117662, 0]
